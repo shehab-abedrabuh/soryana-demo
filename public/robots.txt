@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://soriana-physiotherapy.shehabkinglol.chatgpt.site/sitemap.xml
